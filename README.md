@@ -1,3 +1,6 @@
+Trying to add a category, a type and a description to a marker
+
+
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
